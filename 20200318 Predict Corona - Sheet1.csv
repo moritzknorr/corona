@@ -1,0 +1,16 @@
+,country,date_string,confirmed,deaths,recovered,date,predict,predict_deaths
+50,Germany,12. Mar,"2,078",3,25,2020-03-12,"2,900",23
+51,Germany,13. Mar,"3,675",7,46,2020-03-13,"3,600",29
+52,Germany,14. Mar,"4,585",9,46,2020-03-14,"4,600",37
+53,Germany,15. Mar,"5,795",11,46,2020-03-15,"5,700",46
+54,Germany,16. Mar,"7,272",17,67,2020-03-16,"7,200",58
+55,Germany,17. Mar,"9,257",24,67,2020-03-17,"9,000",72
+56,NaN,18. Mar,nan,nan,nan,2020-03-18,"11,200",90
+57,NaN,19. Mar,nan,nan,nan,2020-03-19,"14,000",112
+58,NaN,20. Mar,nan,nan,nan,2020-03-20,"17,600",141
+59,NaN,21. Mar,nan,nan,nan,2020-03-21,"22,000",176
+60,NaN,22. Mar,nan,nan,nan,2020-03-22,"27,400",219
+61,NaN,23. Mar,nan,nan,nan,2020-03-23,"34,300",274
+62,NaN,24. Mar,nan,nan,nan,2020-03-24,"42,900",343
+63,NaN,25. Mar,nan,nan,nan,2020-03-25,"53,600",429
+64,NaN,26. Mar,nan,nan,nan,2020-03-26,"66,900",535
