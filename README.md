@@ -1,2 +1,4 @@
 # corona
 Test
+
+git submodule init COVID-19/ && git submodule update --recursive COVID-19/ && cd COVID-19/ && git pull origin web-data
